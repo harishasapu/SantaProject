@@ -1,6 +1,6 @@
 FROM openjdk:8u151-jdk-alpine3.7
   
-EXPOSE 3000
+EXPOSE 6000
  
 ENV APP_HOME /usr/src/app
 
